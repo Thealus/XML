@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userDB>
+  <name>
+    <username>john</username>
+    <password>bruce</password>
+    <type>happy</type>
+  </name>
+  <user>
+    <id>01</id>
+    <username>john</username>
+    <password>bruce</password>
+    <type>happy</type>
+  </user>
+  <user>
+    <id>01</id>
+    <username>john</username>
+    <password>bruce</password>
+    <type>happy</type>
+  </user>
+  <user>
+    <id>01</id>
+    <username>john</username>
+    <password>bruce</password>
+    <type>happy</type>
+  </user>
+</userDB>
